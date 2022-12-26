@@ -66,6 +66,7 @@
 
 //data will upload
 
+
 //Data upload Completed Succesfully with Dayclose Popup will Come
 
 //And To send a message to Manual Team to run the Job for this Seller
@@ -76,3 +77,4 @@
 
 //Note:In this web page will open in only one screen in a single time if suppose page will open multiple tabs datas 
 //will be disabled.
+++New One description

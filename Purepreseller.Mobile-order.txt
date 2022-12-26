@@ -76,3 +76,4 @@
 
 //Note:In this web page will open in only one screen in a single time if suppose page will open multiple tabs datas 
 //will be disabled.
+++ Added the night route seller lines in this night route seller branch

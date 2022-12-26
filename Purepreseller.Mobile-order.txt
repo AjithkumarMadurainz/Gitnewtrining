@@ -1,0 +1,78 @@
+// In these case are mobile Dependant
+
+//IN mobile we order the stock and then only we  have run that case so pls follow the below procedure for data creation
+
+//Login mobile ivy application
+
+//username 240192_2408 - Purepre seller
+
+//password 7
+
+//After click the login click the  Suman_pure_pre_slr_FN_Suman_Pure_Pre_Slr1_LN
+
+//After that contents will be download
+
+//after that   seller kpi dashboard will show in screen
+
+//click the profile
+
+//click Trade Coverage
+
+//stores page will come
+
+//and click Suman_Store_05_Credit
+
+//Suman_Store_05_Credit will come
+
+//Click on Start Visit
+
+//Click on Order Taking
+
+//Order Taking  page will come
+
+
+// Click 001_suman_BM_SKU_SD and enter 28 value in pieces 
+
+//Click 012_suman_BM_SKU_SD and enter 18 value in pieces
+
+
+
+//click on next
+
+//click on order Button
+
+
+// order Saved successfully message will display after click ok.
+
+//Suman_Store_05_Credit will come
+
+//Click Call Analysis
+
+//Click Close Call
+
+//Click Ok 
+
+//Trade Coverage page will come
+
+//Go to the profile and Click Synchronization
+
+//enter username and password 
+
+//Click with images check box and Close For the Daycheckbox
+
+//Click Synchronization
+
+//Click the yes button
+
+//data will upload
+
+//Data upload Completed Succesfully with Dayclose Popup will Come
+
+//And To send a message to Manual Team to run the Job for this Seller
+
+//Once job running process will completed
+
+//The datas are loaded in the web application.
+
+//Note:In this web page will open in only one screen in a single time if suppose page will open multiple tabs datas 
+//will be disabled.

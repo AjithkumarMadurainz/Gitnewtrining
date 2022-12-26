@@ -1,2 +1,2 @@
 # Gitnewtrining
-Git New Training begins
+Git New Training begins from youtube

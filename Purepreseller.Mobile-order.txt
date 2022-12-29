@@ -82,3 +82,4 @@ Night-route-seller
 =======
 ++New One description
 --We have successfully forked this file from my old file to this file
+Feature: Added the pure pre seller mobile added procedure in this file 
